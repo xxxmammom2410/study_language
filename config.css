@@ -1,3 +1,13 @@
-answer{
-  color:red;
+
+table tr td:nth-of-type(1){
+  text-align:center;
+  color: black;
+  
 }
+
+table tr td:nth-of-type(2){
+  text-align:center;
+  color: red;
+  
+}
+
